@@ -4,4 +4,5 @@ Sentiment analysis plays a great role in our lives today. As social media plays 
 I have tried 2 popular methodoligies for sentiment analysis which are: neural networks and logistic regression.
 
 **DivisionSigma.ipynb**-Contains the code used for sentiment analysis, with comments on the steps.
+
 **final (2).csv**-The results after feeding the initial data through the model.
